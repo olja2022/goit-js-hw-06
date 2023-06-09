@@ -14,4 +14,3 @@ function randomColor(event) {
   console.log(qwe);
   refs.spanColor.textContent = qwe;
 }
-randomColor();
